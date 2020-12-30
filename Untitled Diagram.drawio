@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T14:29:51.428Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fpoXNyStQhxuv0ARPFFI" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T00:07:42.121Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0Yil94B_h-akUvsIxlD5" version="14.1.3" type="github">
   <diagram id="GfvTxax-OHS727LgkmR5" name="Page-1">
-    <mxGraphModel dx="796" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E7ruoK5HPgACs9fxQLBW-36" value="&lt;h3&gt;&lt;b&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;webserver&lt;/font&gt;&lt;/b&gt;&lt;/h3&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontColor=#5AA9E6;" parent="1" vertex="1">
-          <mxGeometry x="487" y="190.63" width="80" height="60" as="geometry" />
+          <mxGeometry x="482" y="190.63" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E7ruoK5HPgACs9fxQLBW-38" value="&lt;h3&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;(nginx + PHP)&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontColor=#5AA9E6;" parent="1" vertex="1">
-          <mxGeometry x="470" y="209" width="110" height="50" as="geometry" />
+        <mxCell id="E7ruoK5HPgACs9fxQLBW-38" value="&lt;h3&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;(Apache 2 + PHP)&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontColor=#5AA9E6;" parent="1" vertex="1">
+          <mxGeometry x="460" y="209" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E7ruoK5HPgACs9fxQLBW-41" value="&lt;h3&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;(MYSQL)&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="710" y="209" width="70" height="50" as="geometry" />
